@@ -1,0 +1,56 @@
+"""
+-------------------------------------------------------
+Lab 7 Testing
+-------------------------------------------------------
+Author: Jayvinder Singh, Laith Adi
+ID:     181000220, 170265190
+Email:  rsha0220@mylaurier.ca, adix5190@mylaurier.ca
+__updated__ = "2018-11-01"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the website address: www.yahoo.com
+business
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter a password: 1234
+
+not long enough
+no upper
+no lower case
+
+Enter a password: XXXXXXXXX
+
+no digits
+no lower case
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter a string: Hello
+
+'Hello' is not a palindrome
+
+Enter a string: racecar
+
+'racecar' is a palindrome
+
+
+-------------------------------------------------------
+t11
+-------------------------------------------------------
+Enter a string: I think your book is an utter piece of garbage.
+ thnk yr bk s n ttr pc f grbg.
+
+-------------------------------------------------------
+t13
+-------------------------------------------------------
+Enter a string: They ate 3 hotdogs, 4 hamburgs, and 12 pieces of pizza.
+Digits total: 10
+
+
+-------------------------------------------------------

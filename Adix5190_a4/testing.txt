@@ -1,0 +1,95 @@
+task 01 
+--------------------------------------
+Temperature C (-500 to stop): 32
+Temperature C (-500 to stop): 30
+Temperature C (-500 to stop): -6
+Temperature C (-500 to stop): -500
+
+Cold days:            1
+Pleasent days:        0
+Hot days:             2
+Average:              18 C
+--------------------------------------
+task 02
+--------------------------------------
+Current population: 10000
+Growth Rate (%): 10
+Target Population: 20000
+
+It will take 8 year(s) to reach the target population.
+--------------------------------------
+task 03
+--------------------------------------
+Mom's limit on the number of candies: 100
+
+Candies from the first household: 20
+Candies from the next household: 30
+Candies from the next household: 52
+
+You gathered 102 candies in total. 
+You have 2 candies over Mom's limit.
+--------------------------------------
+task 04
+--------------------------------------
+Party budget: $200
+Cost of item: $10.50
+Buy another item (Y/N): N
+Have not yet spent the minimum amount: $180.00
+Cost of item: $35.56
+Buy another item (Y/N): Y
+Cost of item: $112.59
+Buy another item (Y/N): Y
+Cost of item: $125.34
+Item costs too much: $41.35 remaining in budget
+Buy another item (Y/N): Y
+Cost of item: $25.10
+Buy another item (Y/N): N
+
+Total spent on items: $183.75
+Amount remaining: $16.25
+--------------------------------------
+task 05
+--------------------------------------
+Purchase a ticket (Y/N)? Y
+How old are you? 55
+That ticket costs $5.00
+Purchase another ticket (Y/N)? Y
+How old are you? 5
+That ticket costs $2.00
+Purchase another ticket (Y/N)? Y
+How old are you? 11
+Are you a student at this school? (Y/N): Y
+That ticket costs $1.00
+Purchase another ticket (Y/N)? Y
+How old are you? 13
+Are you a student at this school? (Y/N): N
+That ticket costs $2.00
+Purchase another ticket (Y/N)? N
+
+Total tickets price: $10.00
+--------------------------------------
+task 06
+--------------------------------------
+	   394
+	+  408
+	=  809
+Sorry, the correct answer is 802
+
+Continue (Y/N): Y
+
+	   822
+	+  767
+	=  1589
+Congratulations!
+
+Continue (Y/N): Y
+
+	   284
+	+  528
+	=  532
+Sorry, the correct answer is 812
+
+Continue (Y/N): N
+
+Your final score is 1/3
+--------------------------------------

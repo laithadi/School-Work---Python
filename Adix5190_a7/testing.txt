@@ -1,0 +1,89 @@
+'''
+[program description]
+
+Author: Laith Adi 
+
+ID: 170265190
+
+Email: Adix5190@mylaurier.ca
+
+__updated__ = "2018-11-16"
+
+'''
+
+t01
+-Enter a string to test:1234567890
+The string is all digits
+
+Enter a string to test:1223f
+The string contains non-digits------------------------------------------------------
+
+-------------------------------------------------------
+t02
+Enter a string to test:David Brown
+The string contains non-letters
+
+Enter a string to test:NASA
+The string is all letters-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+String to search:Gozer
+String to search for:z
+'z' is found at location 2 in 'Gozer'
+
+String to search:some string
+String to search for:z
+'z' is found at location -1 in 'some string'
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+First string:running
+Second string:ruminating
+Common ending: ing
+
+First string:abcd
+Second string:abcd
+Common ending: None
+
+First string:abcd
+Second string:abcD
+Common ending: 
+
+------------------------------------------------------
+
+-------------------------------------------------------
+t05
+978-3-16-148410-0 : Valid ISBN
+
+978-3-16-14841-0 : too short
+
+978-3160-148410-0 : groups != 5 (dashes < 4)
+
+978-3-1-14841-0-0 : groups != 5 (dashes > 4)
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+Enter phone number:1-800-GOT-JUNK
+Digits:1-800-468-5865
+
+Enter phone number: 514-AUTOBUS
+Digits: 514-2886287
+
+Enter phone number: 519-GRT-STOP
+Digits: 519-478-7867
+------------------------------------------------------
+
+-------------------------------------------------------
+t07
+Enter a string:Bus
+Plural:Buses
+
+Enter a string: tray
+Plural: trays
+
+Enter a string: try
+Plural: tries-------------------------------------------------------
